@@ -1,0 +1,32 @@
+@charset "UTF-8";   
+
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+div{
+    margin-top: 100px;
+    text-align: center;
+}
+img{
+    width: 190px;
+}
+p{
+
+    width: 930px;
+    margin:13px auto ;
+   line-height: 23px;
+}
+h3{
+    font-size: 20px;
+}
+a{
+    font-size: 20px;
+    padding: 5px 20px 5px 20px;
+    color: white;
+    background-color: rgb(11, 99, 11);
+    text-decoration: none;
+    border-radius: 15px;
+}
+span{
+    font-weight: bold;
+}
